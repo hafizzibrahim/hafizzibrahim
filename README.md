@@ -38,7 +38,7 @@ On the web development side, I've mastered HTML, CSS, and JavaScript, along with
 
 <!-- Contact Me Section -->
 ## Contact Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)]([instagram_link](https://www.instagram.com/hafizibrahimm_/?hl=id))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hafizibrahimm_/?hl=id)
 [![Email](https://img.shields.io/badge/Email-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafizzibrahimm0@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-ibrahim-1b142628a/)
 <br>
