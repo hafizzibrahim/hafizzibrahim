@@ -1,6 +1,6 @@
 # Hello, I'm Hafiz Ibrahim
 
-Welcome to my GitHub profile! I'm a software developer actively learning and diving deep into the latest technologies in mobile and web development.
+Welcome to my GitHub profile! I'm a passionate software developer actively learning and diving deep into the latest technologies in mobile and web development.
 
 ## About Me
 
@@ -10,8 +10,18 @@ On the web development side, I've mastered HTML, CSS, and JavaScript, along with
 
 ## Skills
 
-- **Mobile Development:** Kotlin, Jetpack Compose, Flutter <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
-- **Web Development:** HTML, CSS, JavaScript, Bootstrap, Tailwind, ReactJS <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+### Mobile Development
+- **Kotlin:** <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+- **Jetpack Compose:** 
+- **Flutter:** <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+
+### Web Development
+- **HTML5:** <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+- **CSS3:** <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+- **JavaScript:** <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+- **Bootstrap:** 
+- **Tailwind CSS:** 
+- **ReactJS:** <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
 
 ## Recent Projects
 
