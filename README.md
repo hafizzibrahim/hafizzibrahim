@@ -1,8 +1,7 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="your_profile_picture_url" alt="Your Profile Picture" width="200" />
 
-# Hello, I'm [Your Name]
+# Hello, I'm Hafiz Ibrahim
 
 Welcome to my GitHub profile! I'm a passionate software developer actively learning and diving deep into the latest technologies in mobile and web development.
 
@@ -11,36 +10,38 @@ Welcome to my GitHub profile! I'm a passionate software developer actively learn
 I'm a software developer focused on mobile app development using Kotlin and the Jetpack Compose framework. I also have experience in Flutter, a framework that allows me to create cross-platform apps effortlessly.
 
 On the web development side, I've mastered HTML, CSS, and JavaScript, along with several popular frameworks like Bootstrap, Tailwind, and ReactJS. These skills enable me to create dynamic and responsive user experiences on the web.
-</div>
 
 <!-- Skills Section -->
 ## Skills
 
 ### Mobile Development
-- **Kotlin:** <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> 
-- **Jetpack Compose:** <img src="https://developer.android.com/images/brand/jetpack/compose-64.png" alt="Jetpack Compose Logo" width="24"/>
-- **Flutter:** <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+<div>
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> 
+  <img src="https://i.ibb.co/Nxjd7GM/jetpack-compose-icon-RGB.png" alt="Jetpack Compose Logo" width="60"/>
+  <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+</div>
 
 ### Web Development
-- **HTML5:** <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-- **CSS3:** <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-- **JavaScript:** <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-- **Bootstrap:** <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="Bootstrap Logo" width="24"/>
-- **Tailwind CSS:** <img src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype.6cc24b6e6ce773afed7b7f8ef8d07f93.svg" alt="Tailwind CSS Logo" width="24"/>
-- **ReactJS:** <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-
-<!-- Projects Section -->
-## Recent Projects
-
-- [Project Title 1](project_link_1): Brief description of an interesting project.
-- [Project Title 2](project_link_2): Brief description of another intriguing project.
+<div>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" width="60"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" width="60"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" width="60"/>
+  <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="Bootstrap Logo" width="60"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="60"/>
+</div>
 
 <!-- Visitor Counter Section -->
-![Profile Views](https://profile-counter.glitch.me/{hafizzibrahim}/count.svg)
+## Visitor
+<div>
+    <img src="https://profile-counter.glitch.me/hafizzibrahim/count.svg?"  /> <br>
+</div>
 
 <!-- Contact Me Section -->
 ## Contact Me
-
-Feel free to reach out to me via [LinkedIn](linkedin_link) or [Twitter](twitter_link) if you have any questions or want to discuss software development further.
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)]([instagram_link](https://www.instagram.com/hafizibrahimm_/?hl=id))
+[![Email](https://img.shields.io/badge/Email-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafizzibrahimm0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-ibrahim-1b142628a/)
+<br>
 
 Thank you for visiting my GitHub profile!
+</div>
