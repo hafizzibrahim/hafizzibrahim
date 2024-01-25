@@ -36,7 +36,7 @@ On the web development side, I've mastered HTML, CSS, and JavaScript, along with
 - [Project Title 2](project_link_2): Brief description of another intriguing project.
 
 <!-- Visitor Counter Section -->
-![Profile Views](https://komarev.com/ghpvc/?username=your_username&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=hafizzibrahim&color=blue)
 
 <!-- Contact Me Section -->
 ## Contact Me
