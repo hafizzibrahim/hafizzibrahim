@@ -11,13 +11,13 @@ I'm a software developer focused on mobile app development using Kotlin and the 
 
 On the web development side, I've mastered HTML, CSS, and JavaScript, along with several popular frameworks like Bootstrap, Tailwind, and ReactJS. These skills enable me to create dynamic and responsive user experiences on the web.
 
+<!-- Skills Section -->
+## Skills
+
 <a href="https://github.com/hafizzibrahim">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hafizzibrahim&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hafizzibrahim&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-
-<!-- Skills Section -->
-## Skills
 
 ### Mobile Development
 <div>
