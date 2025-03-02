@@ -3,13 +3,16 @@
 
 # Hello, I'm Hafiz Ibrahim
 
-Welcome to my GitHub profile! I'm a passionate software developer actively learning and diving deep into the latest technologies in mobile and web development.
+Welcome to my GitHub profile! I'm a passionate software developer actively learning and diving deep into the latest technologies in mobile development.
 
 ## About Me
 
-I'm a software developer focused on mobile app development using Kotlin and the Jetpack Compose framework. I also have experience in Flutter, a framework that allows me to create cross-platform apps effortlessly.
-
-On the web development side, I've mastered HTML, CSS, and JavaScript, along with several popular frameworks like Bootstrap, Tailwind, and ReactJS. These skills enable me to create dynamic and responsive user experiences on the web.
+Specialized in developing high-quality mobile applications using Flutter, with extensive experience in crafting responsive and visually appealing user
+interfaces. Proficient in leveraging Flutter's robust widget system and state management tools like GetX to deliver seamless cross-platform experiences.
+Also experienced in Android development using Kotlin and Jetpack Compose, demonstrating versatility in building modern and engaging user
+interfaces. Skilled in integrating APIs, optimizing app performance, and implementing intuitive designs tailored to diverse user needs. Actively
+contribute to collaborative projects, fostering teamwork and applying best practices in mobile development. Committed to delivering innovative,
+impactful, and reliable solutions in every project.
 
 <!-- Skills Section -->
 ## Skills
